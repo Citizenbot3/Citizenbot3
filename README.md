@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Citizenbot3
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning the Full stack
-- 💞️ I’m looking to collaborate on Project to be hire in my school
+- 💞️ I’m looking to collaborate on Project to be qccept in my school
 - 📫 How to reach me Tchindatsaki@gmail.com
 
 <!---
